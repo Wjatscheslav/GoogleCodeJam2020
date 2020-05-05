@@ -1,0 +1,14 @@
+# Default ignored files
+/workspace.xml
+/checkstyle-idea.xml
+/../CodeJam2020.iml
+/../out/production/CodeJam2020/vestigium/Main.class
+/misc.xml
+/modules.xml
+/../out/production/CodeJam2020/ppp/Solution$Activity.class
+/../out/production/CodeJam2020/indicium/Solution.class
+/../out/production/CodeJam2020/nestingDepth/Solution.class
+/../out/production/CodeJam2020/one_c/overrandomized/Solution.class
+/../out/production/CodeJam2020/one_c/Solution.class
+/../out/production/CodeJam2020/ppp/Solution.class
+/uiDesigner.xml
